@@ -1,0 +1,525 @@
+,index,year,artist.inverted,track,time,genre,date.entered,date.peaked,Week,Ranking
+0,11436,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week37,5.0
+1,9217,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week30,4.0
+2,10485,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week34,3.0
+3,7315,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week24,6.0
+4,10802,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week35,4.0
+5,9534,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week31,4.0
+6,12070,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week39,9.0
+7,11119,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week36,5.0
+8,8583,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week28,4.0
+9,6681,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week22,7.0
+10,10168,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week33,3.0
+11,7949,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week26,5.0
+12,8900,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week29,4.0
+13,11753,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week38,9.0
+14,6998,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week23,6.0
+15,7632,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week25,6.0
+16,9851,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week32,3.0
+17,8266,2000,3 Doors Down,Kryptonite,233,Rock,2000-04-08,2000-11-11,week27,5.0
+18,3192,2000,98¡,Give Me Just One Night (Una Noche),204,Rock,2000-08-19,2000-09-30,week11,7.0
+19,1924,2000,98¡,Give Me Just One Night (Una Noche),204,Rock,2000-08-19,2000-09-30,week7,2.0
+20,2241,2000,98¡,Give Me Just One Night (Una Noche),204,Rock,2000-08-19,2000-09-30,week8,2.0
+21,2875,2000,98¡,Give Me Just One Night (Una Noche),204,Rock,2000-08-19,2000-09-30,week10,6.0
+22,2558,2000,98¡,Give Me Just One Night (Una Noche),204,Rock,2000-08-19,2000-09-30,week9,3.0
+23,6988,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week23,6.0
+24,2867,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week10,10.0
+25,5403,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week18,2.0
+26,6671,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week22,5.0
+27,3501,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week12,8.0
+28,5086,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week17,2.0
+29,4135,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week14,1.0
+30,6037,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week20,4.0
+31,3818,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week13,6.0
+32,4769,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week16,2.0
+33,6354,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week21,5.0
+34,4452,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week15,2.0
+35,5720,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week19,3.0
+36,3184,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week11,9.0
+37,7305,2000,Aaliyah,Try Again,243,Rock,2000-03-18,2000-06-17,week24,9.0
+38,4132,2000,"Aguilera, Christina",What A Girl Wants,198,Rock,1999-11-27,2000-01-15,week14,4.0
+39,2540,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week9,9.0
+40,3174,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week11,1.0
+41,4464,2000,"Aguilera, Christina",I Turn To You,240,Rock,2000-04-15,2000-07-01,week15,10.0
+42,4442,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week15,4.0
+43,3181,2000,"Aguilera, Christina",What A Girl Wants,198,Rock,1999-11-27,2000-01-15,week11,2.0
+44,2547,2000,"Aguilera, Christina",What A Girl Wants,198,Rock,1999-11-27,2000-01-15,week9,1.0
+45,4147,2000,"Aguilera, Christina",I Turn To You,240,Rock,2000-04-15,2000-07-01,week14,7.0
+46,4125,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week14,1.0
+47,2864,2000,"Aguilera, Christina",What A Girl Wants,198,Rock,1999-11-27,2000-01-15,week10,2.0
+48,2230,2000,"Aguilera, Christina",What A Girl Wants,198,Rock,1999-11-27,2000-01-15,week8,1.0
+49,3815,2000,"Aguilera, Christina",What A Girl Wants,198,Rock,1999-11-27,2000-01-15,week13,3.0
+50,3513,2000,"Aguilera, Christina",I Turn To You,240,Rock,2000-04-15,2000-07-01,week12,3.0
+51,2223,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week8,9.0
+52,3830,2000,"Aguilera, Christina",I Turn To You,240,Rock,2000-04-15,2000-07-01,week13,3.0
+53,3491,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week12,1.0
+54,3808,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week13,1.0
+55,4759,2000,"Aguilera, Christina",Come On Over Baby (All I Want Is You),218,Rock,2000-08-05,2000-10-14,week16,8.0
+56,3498,2000,"Aguilera, Christina",What A Girl Wants,198,Rock,1999-11-27,2000-01-15,week12,3.0
+57,4142,2000,"Anthony, Marc",You Sang To Me,230,Latin,2000-02-26,2000-06-03,week14,5.0
+58,4776,2000,"Anthony, Marc",You Sang To Me,230,Latin,2000-02-26,2000-06-03,week16,2.0
+59,4459,2000,"Anthony, Marc",You Sang To Me,230,Latin,2000-02-26,2000-06-03,week15,2.0
+60,5727,2000,"Anthony, Marc",You Sang To Me,230,Latin,2000-02-26,2000-06-03,week19,9.0
+61,5410,2000,"Anthony, Marc",You Sang To Me,230,Latin,2000-02-26,2000-06-03,week18,7.0
+62,5093,2000,"Anthony, Marc",You Sang To Me,230,Latin,2000-02-26,2000-06-03,week17,5.0
+63,4160,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week14,6.0
+64,3526,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week12,6.0
+65,2892,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week10,9.0
+66,4477,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week15,8.0
+67,4794,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week16,9.0
+68,2588,2000,"Backstreet Boys, The",Shape Of My Heart,229,Rock,2000-10-14,2000-12-02,week9,10.0
+69,3843,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week13,6.0
+70,2258,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week8,10.0
+71,3209,2000,"Backstreet Boys, The",Show Me The Meaning Of Being Lonely,234,Rock,2000-01-01,2000-03-18,week11,7.0
+72,1954,2000,"Backstreet Boys, The",Shape Of My Heart,229,Rock,2000-10-14,2000-12-02,week7,10.0
+73,2271,2000,"Backstreet Boys, The",Shape Of My Heart,229,Rock,2000-10-14,2000-12-02,week8,9.0
+74,2263,2000,"Badu, Erkyah",Bag Lady,303,Rock,2000-08-19,2000-10-07,week8,6.0
+75,2580,2000,"Badu, Erkyah",Bag Lady,303,Rock,2000-08-19,2000-10-07,week9,9.0
+76,3214,2000,"Badu, Erkyah",Bag Lady,303,Rock,2000-08-19,2000-10-07,week11,8.0
+77,2897,2000,"Badu, Erkyah",Bag Lady,303,Rock,2000-08-19,2000-10-07,week10,9.0
+78,5423,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week18,9.0
+79,4789,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week16,6.0
+80,3521,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week12,9.0
+81,2887,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week10,9.0
+82,4155,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week14,5.0
+83,5106,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week17,8.0
+84,3838,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week13,10.0
+85,3204,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week11,9.0
+86,4472,2000,Blaque,Bring It All To Me,226,Pop,1999-10-23,2000-01-22,week15,5.0
+87,3846,2000,Blink-182,All The Small Things,172,Rock,1999-12-04,2000-02-19,week13,8.0
+88,3529,2000,Blink-182,All The Small Things,172,Rock,1999-12-04,2000-02-19,week12,6.0
+89,3212,2000,Blink-182,All The Small Things,172,Rock,1999-12-04,2000-02-19,week11,7.0
+90,4480,2000,Blink-182,All The Small Things,172,Rock,1999-12-04,2000-02-19,week15,9.0
+91,4163,2000,Blink-182,All The Small Things,172,Rock,1999-12-04,2000-02-19,week14,8.0
+92,2873,2000,"Braxton, Toni",He Wasn't Man Enough,261,Rock,2000-03-18,2000-05-06,week10,4.0
+93,3190,2000,"Braxton, Toni",He Wasn't Man Enough,261,Rock,2000-03-18,2000-05-06,week11,4.0
+94,3507,2000,"Braxton, Toni",He Wasn't Man Enough,261,Rock,2000-03-18,2000-05-06,week12,5.0
+95,2239,2000,"Braxton, Toni",He Wasn't Man Enough,261,Rock,2000-03-18,2000-05-06,week8,2.0
+96,2556,2000,"Braxton, Toni",He Wasn't Man Enough,261,Rock,2000-03-18,2000-05-06,week9,2.0
+97,6043,2000,"Braxton, Toni",He Wasn't Man Enough,261,Rock,2000-03-18,2000-05-06,week20,10.0
+98,1922,2000,"Braxton, Toni",He Wasn't Man Enough,261,Rock,2000-03-18,2000-05-06,week7,3.0
+99,2869,2000,"Carey, Mariah",Thank God I Found You,254,Rock,1999-12-11,2000-02-19,week10,2.0
+100,3186,2000,"Carey, Mariah",Thank God I Found You,254,Rock,1999-12-11,2000-02-19,week11,1.0
+101,3503,2000,"Carey, Mariah",Thank God I Found You,254,Rock,1999-12-11,2000-02-19,week12,2.0
+102,3820,2000,"Carey, Mariah",Thank God I Found You,254,Rock,1999-12-11,2000-02-19,week13,4.0
+103,8889,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week29,2.0
+104,7304,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week24,3.0
+105,13677,2000,Creed,Higher,316,Rock,1999-09-11,2000-07-22,week44,9.0
+106,15262,2000,Creed,Higher,316,Rock,1999-09-11,2000-07-22,week49,9.0
+107,13994,2000,Creed,Higher,316,Rock,1999-09-11,2000-07-22,week45,9.0
+108,8255,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week27,1.0
+109,14311,2000,Creed,Higher,316,Rock,1999-09-11,2000-07-22,week46,7.0
+110,7621,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week25,3.0
+111,14628,2000,Creed,Higher,316,Rock,1999-09-11,2000-07-22,week47,7.0
+112,14945,2000,Creed,Higher,316,Rock,1999-09-11,2000-07-22,week48,9.0
+113,8572,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week28,2.0
+114,11425,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week37,5.0
+115,11742,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week38,9.0
+116,7938,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week26,3.0
+117,6353,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week21,10.0
+118,10157,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week33,4.0
+119,11108,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week36,5.0
+120,9206,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week30,3.0
+121,6670,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week22,7.0
+122,10791,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week35,5.0
+123,6987,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week23,5.0
+124,9523,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week31,3.0
+125,9840,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week32,3.0
+126,10474,2000,Creed,With Arms Wide Open,232,Rock,2000-05-13,2000-11-11,week34,5.0
+127,6657,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week22,7.0
+128,3810,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week13,1.0
+129,5706,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week19,1.0
+130,4438,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week15,1.0
+131,5078,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week17,2.0
+132,7631,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week25,6.0
+133,5072,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week17,1.0
+134,3804,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week13,1.0
+135,4144,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week14,4.0
+136,5412,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week18,3.0
+137,5095,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week17,3.0
+138,5395,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week18,3.0
+139,6663,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week22,7.0
+140,5712,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week19,5.0
+141,6346,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week21,5.0
+142,6980,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week23,10.0
+143,4121,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week14,1.0
+144,6340,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week21,3.0
+145,6997,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week23,6.0
+146,4461,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week15,3.0
+147,6680,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week22,4.0
+148,6046,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week20,3.0
+149,6363,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week21,4.0
+150,6974,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week23,10.0
+151,4755,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week16,1.0
+152,4761,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week16,2.0
+153,6029,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week20,5.0
+154,3827,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week13,6.0
+155,4444,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week15,1.0
+156,6023,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week20,2.0
+157,4778,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week16,4.0
+158,5729,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week19,3.0
+159,4127,2000,Destiny's Child,Say My Name,271,Rock,1999-12-25,2000-03-18,week14,1.0
+160,7314,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week24,7.0
+161,5389,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week18,1.0
+162,2219,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week8,5.0
+163,3170,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week11,1.0
+164,3487,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week12,1.0
+165,8265,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week27,10.0
+166,7948,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week26,8.0
+167,1902,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week7,7.0
+168,3510,2000,Destiny's Child,Jumpin' Jumpin',228,Rock,2000-05-13,2000-08-19,week12,8.0
+169,2853,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week10,1.0
+170,2536,2000,Destiny's Child,Independent Women Part I,218,Rock,2000-09-23,2000-11-18,week9,1.0
+171,6381,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week21,9.0
+172,4162,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week14,10.0
+173,6064,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week20,7.0
+174,3845,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week13,9.0
+175,5430,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week18,8.0
+176,3528,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week12,8.0
+177,6698,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week22,10.0
+178,5113,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week17,6.0
+179,5747,2000,"Dion, Celine",That's The Way It Is,243,Rock,1999-11-13,2000-03-04,week19,7.0
+180,6993,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week23,10.0
+181,4140,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week14,2.0
+182,5725,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week19,7.0
+183,6359,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week21,10.0
+184,4457,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week15,2.0
+185,3823,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week13,5.0
+186,6042,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week20,9.0
+187,5091,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week17,3.0
+188,5408,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week18,3.0
+189,3506,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week12,8.0
+190,4774,2000,Dream,He Loves U Not,223,Rock,2000-09-30,2000-12-30,week16,3.0
+191,2896,2000,Eiffel 65,Blue (Da Ba Dee),209,Electronica,1999-12-11,2000-01-29,week10,9.0
+192,1945,2000,Eiffel 65,Blue (Da Ba Dee),209,Electronica,1999-12-11,2000-01-29,week7,9.0
+193,2579,2000,Eiffel 65,Blue (Da Ba Dee),209,Electronica,1999-12-11,2000-01-29,week9,7.0
+194,2262,2000,Eiffel 65,Blue (Da Ba Dee),209,Electronica,1999-12-11,2000-01-29,week8,6.0
+195,1620,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week6,7.0
+196,1937,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week7,5.0
+197,986,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week4,9.0
+198,2254,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week8,7.0
+199,4156,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week14,10.0
+200,2888,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week10,7.0
+201,3839,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week13,7.0
+202,2571,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week9,7.0
+203,1303,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week5,7.0
+204,3205,2000,"Elliott, Missy ""Misdemeanor""",Hot Boyz,231,Rap,1999-11-27,2000-01-08,week11,8.0
+205,2250,2000,Eminem,The Real Slim Shady,282,Rap,2000-05-06,2000-06-24,week8,4.0
+206,2567,2000,Eminem,The Real Slim Shady,282,Rap,2000-05-06,2000-06-24,week9,5.0
+207,2884,2000,Eminem,The Real Slim Shady,282,Rap,2000-05-06,2000-06-24,week10,4.0
+208,1933,2000,Eminem,The Real Slim Shady,282,Rap,2000-05-06,2000-06-24,week7,6.0
+209,3518,2000,Eminem,The Real Slim Shady,282,Rap,2000-05-06,2000-06-24,week12,9.0
+210,1616,2000,Eminem,The Real Slim Shady,282,Rap,2000-05-06,2000-06-24,week6,7.0
+211,3201,2000,Eminem,The Real Slim Shady,282,Rap,2000-05-06,2000-06-24,week11,8.0
+212,4157,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week14,5.0
+213,2572,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week9,8.0
+214,4791,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week16,9.0
+215,3840,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week13,6.0
+216,3206,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week11,7.0
+217,4474,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week15,6.0
+218,5108,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week17,10.0
+219,3523,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week12,7.0
+220,2889,2000,"Gray, Macy",I Try,232,Rock,2000-02-19,2000-05-20,week10,7.0
+221,8259,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week27,3.0
+222,5089,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week17,5.0
+223,7308,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week24,3.0
+224,7625,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week25,2.0
+225,6357,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week21,4.0
+226,10795,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week35,8.0
+227,8576,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week28,3.0
+228,7942,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week26,2.0
+229,10478,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week34,5.0
+230,5406,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week18,3.0
+231,9527,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week31,3.0
+232,5723,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week19,3.0
+233,8893,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week29,2.0
+234,9210,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week30,2.0
+235,10161,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week33,2.0
+236,6991,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week23,3.0
+237,6040,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week20,4.0
+238,6674,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week22,3.0
+239,9844,2000,"Hill, Faith",Breathe,244,Rap,1999-11-06,2000-04-22,week32,4.0
+240,3197,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week11,8.0
+241,6050,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week20,6.0
+242,2246,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week8,7.0
+243,3514,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week12,8.0
+244,6684,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week22,10.0
+245,5099,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week17,5.0
+246,4465,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week15,5.0
+247,5416,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week18,5.0
+248,5733,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week19,4.0
+249,2880,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week10,7.0
+250,4148,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week14,6.0
+251,1612,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week6,9.0
+252,1929,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week7,8.0
+253,3831,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week13,6.0
+254,6367,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week21,10.0
+255,4782,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week16,5.0
+256,2563,2000,"Houston, Whitney",My Love Is Your Love,256,Rock,1999-09-04,2000-01-08,week9,8.0
+257,3177,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week11,5.0
+258,3494,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week12,4.0
+259,4445,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week15,1.0
+260,2543,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week9,8.0
+261,4128,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week14,1.0
+262,2860,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week10,6.0
+263,3811,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week13,1.0
+264,2226,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week8,8.0
+265,4762,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week16,3.0
+266,1909,2000,"Iglesias, Enrique",Be With You,216,Latin,2000-04-01,2000-06-24,week7,9.0
+267,5077,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week17,3.0
+268,5711,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week19,8.0
+269,5394,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week18,7.0
+270,3175,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week11,1.0
+271,2224,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week8,10.0
+272,3809,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week13,1.0
+273,3492,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week12,1.0
+274,4760,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week16,3.0
+275,4126,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week14,2.0
+276,2541,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week9,10.0
+277,4443,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week15,2.0
+278,2858,2000,Janet,Doesn't Really Matter,257,Rock,2000-06-17,2000-08-26,week10,5.0
+279,10489,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week34,8.0
+280,9221,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week30,5.0
+281,9538,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week31,5.0
+282,7953,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week26,6.0
+283,7002,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week23,10.0
+284,9855,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week32,7.0
+285,10172,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week33,6.0
+286,8587,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week28,5.0
+287,8904,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week29,4.0
+288,10806,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week35,5.0
+289,11123,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week36,6.0
+290,8270,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week27,4.0
+291,11440,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week37,9.0
+292,12074,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week39,8.0
+293,11757,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week38,9.0
+294,7636,2000,Joe,I Wanna Know,297,Rock,2000-01-01,2000-07-01,week25,10.0
+295,5101,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week17,4.0
+296,8271,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week27,10.0
+297,5418,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week18,4.0
+298,7003,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week23,9.0
+299,6686,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week22,9.0
+300,6369,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week21,5.0
+301,4784,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week16,5.0
+302,5735,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week19,7.0
+303,6052,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week20,10.0
+304,7637,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week25,9.0
+305,7954,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week26,10.0
+306,7320,2000,"Jordan, Montell",Get It On.. Tonite,274,Rap,1999-10-23,2000-02-12,week24,7.0
+307,683,2000,Kenny G,Auld Lang Syne (The Millenium Mix),470,Jazz,1999-12-25,2000-01-08,week3,7.0
+308,1000,2000,Kenny G,Auld Lang Syne (The Millenium Mix),470,Jazz,1999-12-25,2000-01-08,week4,8.0
+309,15225,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week49,9.0
+310,12055,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week39,3.0
+311,14591,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week47,6.0
+312,14274,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week46,5.0
+313,13640,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week44,4.0
+314,13323,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week43,3.0
+315,13006,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week42,2.0
+316,12689,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week41,1.0
+317,12372,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week40,1.0
+318,14908,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week48,8.0
+319,13957,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week45,4.0
+320,15542,2000,Lonestar,Amazed,265,Country,1999-06-05,2000-03-04,week50,10.0
+321,2539,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week9,1.0
+322,3173,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week11,2.0
+323,1588,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week6,1.0
+324,4124,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week14,2.0
+325,1271,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week5,2.0
+326,1905,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week7,1.0
+327,2856,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week10,2.0
+328,4758,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week16,8.0
+329,4441,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week15,4.0
+330,3807,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week13,2.0
+331,2222,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week8,1.0
+332,3490,2000,Madonna,Music,225,Rock,2000-08-12,2000-09-16,week12,2.0
+333,4154,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week14,4.0
+334,3203,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week11,6.0
+335,3520,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week12,5.0
+336,4788,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week16,7.0
+337,4471,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week15,6.0
+338,2252,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week8,10.0
+339,2569,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week9,9.0
+340,2886,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week10,8.0
+341,3837,2000,"Mumba, Samantha",Gotta Tell You,199,Rock,2000-09-09,2000-12-09,week13,7.0
+342,7309,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week24,8.0
+343,5724,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week19,3.0
+344,3822,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week13,9.0
+345,6675,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week22,4.0
+346,6992,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week23,4.0
+347,4139,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week14,9.0
+348,6041,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week20,4.0
+349,5407,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week18,2.0
+350,4773,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week16,2.0
+351,5090,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week17,2.0
+352,4456,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week15,7.0
+353,3505,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week12,10.0
+354,6358,2000,Mya,Case Of The Ex (Whatcha Gonna Do),230,Rock,2000-08-19,2000-12-02,week21,4.0
+355,2566,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week9,5.0
+356,3814,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week13,1.0
+357,3200,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week11,5.0
+358,2546,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week9,7.0
+359,4468,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week15,6.0
+360,2863,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week10,7.0
+361,2883,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week10,5.0
+362,2573,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week9,6.0
+363,3180,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week11,5.0
+364,4785,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week16,7.0
+365,4765,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week16,4.0
+366,5399,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week18,10.0
+367,3834,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week13,4.0
+368,5102,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week17,9.0
+369,3841,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week13,10.0
+370,1615,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week6,7.0
+371,5082,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week17,6.0
+372,1622,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week6,6.0
+373,3524,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week12,7.0
+374,4151,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week14,6.0
+375,1932,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week7,6.0
+376,3517,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week12,4.0
+377,3497,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week12,4.0
+378,4131,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week14,1.0
+379,4792,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week16,9.0
+380,4448,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week15,3.0
+381,2229,2000,N'Sync,It's Gonna Be Me,190,Rock,2000-05-06,2000-07-29,week8,9.0
+382,2249,2000,N'Sync,Bye Bye Bye,195,Rock,2000-01-29,2000-04-15,week8,5.0
+383,2256,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week8,7.0
+384,3207,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week11,6.0
+385,1939,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week7,7.0
+386,2890,2000,N'Sync,This I Promise You,263,Rock,2000-09-30,2000-12-02,week10,5.0
+387,6387,2000,Nelly,(Hot S**t) Country Grammar,257,Rap,2000-04-29,2000-09-16,week21,7.0
+388,6704,2000,Nelly,(Hot S**t) Country Grammar,257,Rap,2000-04-29,2000-09-16,week22,7.0
+389,7021,2000,Nelly,(Hot S**t) Country Grammar,257,Rap,2000-04-29,2000-09-16,week23,8.0
+390,6070,2000,Nelly,(Hot S**t) Country Grammar,257,Rap,2000-04-29,2000-09-16,week20,10.0
+391,7338,2000,Nelly,(Hot S**t) Country Grammar,257,Rap,2000-04-29,2000-09-16,week24,10.0
+392,5120,2000,Next,Wifey,243,Rock,2000-05-27,2000-09-09,week17,10.0
+393,4486,2000,Next,Wifey,243,Rock,2000-05-27,2000-09-09,week15,8.0
+394,4803,2000,Next,Wifey,243,Rock,2000-05-27,2000-09-09,week16,7.0
+395,4161,2000,Nine Days,Absolutely (Story Of A Girl),189,Rock,2000-05-06,2000-07-22,week14,8.0
+396,4795,2000,Nine Days,Absolutely (Story Of A Girl),189,Rock,2000-05-06,2000-07-22,week16,7.0
+397,3527,2000,Nine Days,Absolutely (Story Of A Girl),189,Rock,2000-05-06,2000-07-22,week12,6.0
+398,4478,2000,Nine Days,Absolutely (Story Of A Girl),189,Rock,2000-05-06,2000-07-22,week15,8.0
+399,3844,2000,Nine Days,Absolutely (Story Of A Girl),189,Rock,2000-05-06,2000-07-22,week13,6.0
+400,5429,2000,Nine Days,Absolutely (Story Of A Girl),189,Rock,2000-05-06,2000-07-22,week18,9.0
+401,5112,2000,Nine Days,Absolutely (Story Of A Girl),189,Rock,2000-05-06,2000-07-22,week17,8.0
+402,1947,2000,Pink,There U Go,203,Rock,2000-03-04,2000-04-08,week7,7.0
+403,5421,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week18,8.0
+404,5434,2000,Pink,There U Go,203,Rock,2000-03-04,2000-04-08,week18,10.0
+405,6702,2000,Pink,There U Go,203,Rock,2000-03-04,2000-04-08,week22,9.0
+406,4787,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week16,4.0
+407,2885,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week10,8.0
+408,5104,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week17,6.0
+409,3836,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week13,5.0
+410,3519,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week12,5.0
+411,4153,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week14,6.0
+412,3202,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week11,5.0
+413,6068,2000,Pink,There U Go,203,Rock,2000-03-04,2000-04-08,week20,10.0
+414,4470,2000,Pink,Most Girls,246,Rock,2000-08-12,2000-11-25,week15,5.0
+415,6385,2000,Pink,There U Go,203,Rock,2000-03-04,2000-04-08,week21,8.0
+416,5751,2000,Pink,There U Go,203,Rock,2000-03-04,2000-04-08,week19,10.0
+417,1630,2000,Pink,There U Go,203,Rock,2000-03-04,2000-04-08,week6,7.0
+418,3525,2000,Ruff Endz,No More,236,Rock,2000-07-01,2000-09-02,week12,8.0
+419,3842,2000,Ruff Endz,No More,236,Rock,2000-07-01,2000-09-02,week13,10.0
+420,2891,2000,Ruff Endz,No More,236,Rock,2000-07-01,2000-09-02,week10,5.0
+421,3208,2000,Ruff Endz,No More,236,Rock,2000-07-01,2000-09-02,week11,8.0
+422,2257,2000,Ruff Endz,No More,236,Rock,2000-07-01,2000-09-02,week8,10.0
+423,2574,2000,Ruff Endz,No More,236,Rock,2000-07-01,2000-09-02,week9,7.0
+424,3488,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week12,1.0
+425,1586,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week6,3.0
+426,1269,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week5,2.0
+427,2537,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week9,1.0
+428,952,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week4,5.0
+429,3805,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week13,1.0
+430,635,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week3,6.0
+431,2854,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week10,1.0
+432,3171,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week11,1.0
+433,1903,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week7,2.0
+434,2220,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week8,2.0
+435,318,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week2,8.0
+436,4439,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week15,1.0
+437,5073,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week17,1.0
+438,5707,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week19,8.0
+439,5390,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week18,1.0
+440,4122,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week14,1.0
+441,4756,2000,Santana,"Maria, Maria",258,Rock,2000-02-12,2000-04-08,week16,1.0
+442,5391,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week18,2.0
+443,3172,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week11,4.0
+444,4440,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week15,1.0
+445,2855,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week10,4.0
+446,6342,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week21,4.0
+447,4757,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week16,1.0
+448,2538,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week9,4.0
+449,6025,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week20,2.0
+450,5074,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week17,1.0
+451,2221,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week8,6.0
+452,5708,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week19,1.0
+453,6659,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week22,8.0
+454,3489,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week12,6.0
+455,1904,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week7,7.0
+456,3806,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week13,4.0
+457,4123,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week14,2.0
+458,6976,2000,Savage Garden,I Knew I Loved You,247,Rock,1999-10-23,2000-01-29,week23,8.0
+459,5097,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week17,3.0
+460,2227,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week8,1.0
+461,5731,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week19,4.0
+462,4780,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week16,4.0
+463,3812,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week13,5.0
+464,2878,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week10,10.0
+465,4463,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week15,4.0
+466,2861,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week10,2.0
+467,3829,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week13,5.0
+468,3512,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week12,6.0
+469,6048,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week20,3.0
+470,5080,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week17,10.0
+471,2544,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week9,1.0
+472,4763,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week16,8.0
+473,4446,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week15,7.0
+474,6365,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week21,7.0
+475,5397,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week18,10.0
+476,6682,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week22,8.0
+477,3178,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week11,2.0
+478,3495,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week12,4.0
+479,5414,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week18,3.0
+480,3195,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week11,6.0
+481,5714,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week19,9.0
+482,4129,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week14,5.0
+483,1910,2000,Sisqo,Incomplete,232,Rock,2000-06-24,2000-08-12,week7,2.0
+484,4146,2000,Sisqo,Thong Song,245,Rock,2000-01-29,2000-05-20,week14,4.0
+485,4805,2000,Sonique,It Feels So Good,228,Rock,2000-01-22,2000-04-22,week16,10.0
+486,4171,2000,Sonique,It Feels So Good,228,Rock,2000-01-22,2000-04-22,week14,8.0
+487,4488,2000,Sonique,It Feels So Good,228,Rock,2000-01-22,2000-04-22,week15,10.0
+488,2904,2000,"Spears, Britney",Oops!.. I Did It Again,210,Rock,2000-04-22,2000-06-10,week10,10.0
+489,2587,2000,"Spears, Britney",Oops!.. I Did It Again,210,Rock,2000-04-22,2000-06-10,week9,9.0
+490,2270,2000,"Spears, Britney",Oops!.. I Did It Again,210,Rock,2000-04-22,2000-06-10,week8,9.0
+491,7303,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week24,6.0
+492,4767,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week16,8.0
+493,5718,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week19,7.0
+494,7620,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week25,6.0
+495,6352,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week21,8.0
+496,7937,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week26,1.0
+497,5401,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week18,6.0
+498,6986,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week23,3.0
+499,4133,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week14,9.0
+500,9839,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week32,10.0
+501,5084,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week17,8.0
+502,4450,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week15,9.0
+503,8254,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week27,2.0
+504,9205,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week30,7.0
+505,8888,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week29,4.0
+506,6669,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week22,3.0
+507,8571,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week28,3.0
+508,6035,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week20,7.0
+509,9522,2000,Vertical Horizon,Everything You Want,241,Rock,2000-01-22,2000-07-15,week31,9.0
+510,5404,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week18,3.0
+511,5087,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week17,2.0
+512,3819,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week13,1.0
+513,4770,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week16,2.0
+514,6038,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week20,5.0
+515,4453,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week15,3.0
+516,3185,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week11,8.0
+517,6672,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week22,4.0
+518,4136,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week14,2.0
+519,3502,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week12,6.0
+520,6989,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week23,6.0
+521,7306,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week24,9.0
+522,5721,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week19,4.0
+523,6355,2000,matchbox twenty,Bent,252,Rock,2000-04-29,2000-07-22,week21,4.0
